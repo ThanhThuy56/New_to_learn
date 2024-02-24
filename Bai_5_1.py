@@ -9,3 +9,4 @@ chuoikq = chuoikq[:-1]
 print ("Các thể loại nhạc bạn yêu thích: ", chuoikq)
     
 #demo điền chuỗi liên tiếp, dừng lại nằm trong input của đoạn nhập
+print ("com cho")
